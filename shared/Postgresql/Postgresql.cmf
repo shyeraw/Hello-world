@@ -29,7 +29,7 @@
   <attribute name="driverName" type="STRING">PostgreSQL 9.0</attribute>
   <attribute name="execTimeout" type="INTEGER">0</attribute>
   <attribute name="isPassThrough" type="STRING">Disabled</attribute>
-  <attribute name="lastModifiedDate" type="LONG">1686137911072</attribute>
+  <attribute name="lastModifiedDate" type="LONG">1687418680859</attribute>
   <attribute name="lastModifiedUserDomain" type="STRING">composite</attribute>
   <attribute name="lastModifiedUserId" type="INTEGER">-1973</attribute>
   <attribute name="lastModifiedUserName" type="STRING">admin</attribute>
@@ -40,7 +40,7 @@
   <attribute name="minTargetToSourceRatioForSJ" type="STRING"/>
   <attribute name="name" type="STRING">Postgresql</attribute>
   <attribute name="nativeDataLoadingEnabled" type="BOOLEAN">true</attribute>
-  <attribute name="password" type="PASSWORD_STRING">ENC(WBWeKRbOiqD/jEmztlCRcg==$YcUkA7S5v/yKBP3m11y6iA==)</attribute>
+  <attribute name="password" type="PASSWORD_STRING">ENC(+HVZ0s0wC9Y5z+dwx9Y5Pw==$yb0xrqCfFlLzdezG1Lk8jw==)</attribute>
   <attribute name="persistPassword" type="BOOLEAN">true</attribute>
   <attribute name="resourceModifiedDateOnSourceCISSite" type="LONG">1686137911072</attribute>
   <attribute name="supportsStarSchema" type="BOOLEAN">false</attribute>
